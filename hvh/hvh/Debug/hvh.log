@@ -1,0 +1,17 @@
+﻿  functions.c
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(859,76): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(859,76): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(1216,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.c
+C:\Users\Arian\source\repos\hvh\hvh\main.c(146,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\Arian\source\repos\hvh\hvh\main.c(146,37): warning C4024: 'split': different types for formal and actual parameter 1
+C:\Users\Arian\source\repos\hvh\hvh\main.c(192,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\Arian\source\repos\hvh\hvh\main.c(192,37): warning C4024: 'split': different types for formal and actual parameter 1
+C:\Users\Arian\source\repos\hvh\hvh\main.c(271,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\Arian\source\repos\hvh\hvh\main.c(271,37): warning C4024: 'split': different types for formal and actual parameter 1
+  Generating Code...
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(250): warning C4715: 'command_check': not all control paths return a value
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(406): warning C4715: 'seller_command_check': not all control paths return a value
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(464): warning C4715: 'buyer_command_check': not all control paths return a value
+C:\Users\Arian\source\repos\hvh\hvh\functions.c(1339): warning C4715: 'quality_check': not all control paths return a value
+  hvh.vcxproj -> C:\Users\Arian\source\repos\hvh\Debug\hvh.exe

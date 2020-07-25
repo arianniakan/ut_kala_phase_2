@@ -1,0 +1,6 @@
+ball 2000 2 1 2 e s1
+ball 2000 1 1 2 d s1
+ball 2000 1 1 2 c s1
+ball 2000 2 1 2 b s1
+ball 2000 1 1 5 a s1
+ball 1000 5 1 1 b1 s1

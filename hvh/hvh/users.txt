@@ -1,0 +1,8 @@
+e e buyer 96000 1
+d d buyer 98000 1
+c c buyer 98000 1
+b b buyer 96000 1
+a a buyer 998000 1
+s1 x seller 0 1
+b1 y buyer 5000 1
+b2 z buyer 0 0
